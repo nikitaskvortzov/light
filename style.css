@@ -1,0 +1,86 @@
+
+
+.navbar {
+    background: rgb(245, 99, 155,);
+    position: fixed;
+    margin-left: 1100px;
+    margin-top: 50px;
+    font-size: xx-large; 
+    word-spacing:20px;    /*Расстояние между словами*/
+  } 
+
+.inLine {
+    display: inline;
+       }
+
+a:active {
+    color: rgb(15, 1, 1);
+}
+
+a:hover {
+    background: rgba(243, 101, 224, 0.3);
+   }
+
+
+
+.text {
+    position: fixed;
+    left: 900px;
+    top: 320px;
+   
+}
+
+.pol {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    height: 50px;
+    background-color: rgba(249, 250, 248, 0.0);  
+}
+
+.pol1 {
+    font-size:25px;
+    padding-left:145px;
+    float:left;
+    word-spacing:20px;
+}
+
+.icon-style {
+    height:40px;
+    margin-left:20px;
+    margin-top:-5px;
+    position: fixed;
+    
+}
+
+
+.icon-style:hover {
+  background-color:rgb(247, 55, 183);
+  padding:5px;
+}
+
+.texstpol {
+  position: fixed;
+  left: 800px;
+  margin-top: -9px;
+  color: rgb(247, 7, 7);
+}
+
+.foto {
+   position: fixed;
+   top: 150px;
+   word-spacing: 70px;
+   margin-left: 120px;
+      }
+
+   .foto1 {
+    position: fixed;
+    top: 550px;
+    word-spacing: 70px;
+    margin-left: 120px;
+    }
+
+    img {
+        border-radius: 20%;
+    }
