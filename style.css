@@ -170,3 +170,10 @@ a:hover {
         left: 700px;
         top: 750px;
        }
+
+       .morda {
+        position: fixed;
+        left: 210px;
+        top: 150px;
+        width: 550px;
+       }
