@@ -26,11 +26,11 @@ a:hover {
 
 .text {
     position: fixed;
-    left: 900px;
-    top: 320px;
+    left: 1050px;
+    top: 200px;
     margin-left: auto;
     margin-right: auto;
-    width: 700px;
+    width: 500px;
    
 }
 
@@ -68,7 +68,7 @@ a:hover {
   position: fixed;
   left: 800px;
   margin-top: -9px;
-  color: rgb(247, 7, 7);
+  color:  rgb(173, 132, 85);
 }
 
 .foto {
@@ -163,4 +163,10 @@ a:hover {
     margin-top: -720px;
     color: rgb(39, 117, 117);
         
+       }
+
+       .naborTyt {
+        position: fixed;
+        left: 700px;
+        top: 750px;
        }
